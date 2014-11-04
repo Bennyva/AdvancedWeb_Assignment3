@@ -13,3 +13,4 @@
 /// <reference path="lib/require.js" />
 /// <reference path="lib/soundjs-0.5.2.min.js" />
 /// <reference path="lib/tweenjs-0.5.1.min.js" />
+/// <reference path="lib/ndgmr.Collision.js" />

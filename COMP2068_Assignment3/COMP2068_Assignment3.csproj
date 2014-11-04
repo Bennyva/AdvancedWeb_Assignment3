@@ -61,11 +61,15 @@
   <ItemGroup>
     <Content Include="CSS\app.css" />
     <Content Include="CSS\normalize.css" />
+    <Content Include="images\bubble.png" />
     <Content Include="images\cloud.png" />
+    <Content Include="images\diver.png" />
     <Content Include="images\island.png" />
     <Content Include="images\loading.jpg" />
     <Content Include="images\ocean.gif" />
+    <Content Include="images\ocean.png" />
     <Content Include="images\plane.png" />
+    <Content Include="images\shark.png" />
     <Content Include="index.html" />
     <Content Include="packages.config" />
     <Content Include="Scripts\lib\jquery-2.1.1.min.map" />
@@ -94,6 +98,7 @@
     <Content Include="Scripts\lib\require.js" />
     <Content Include="Scripts\lib\soundjs-0.5.2.min.js" />
     <Content Include="Scripts\lib\tweenjs-0.5.1.min.js" />
+    <Content Include="Scripts\lib\ndgmr.Collision.js" />
     <Content Include="sounds\engine.ogg" />
     <Content Include="sounds\thunder.ogg" />
     <Content Include="sounds\yay.ogg" />
@@ -106,6 +111,7 @@
     <TypeScriptCompile Include="Scripts\game.ts" />
     <TypeScriptCompile Include="Scripts\lib\createjs-lib.d.ts" />
     <TypeScriptCompile Include="Scripts\lib\easeljs.d.ts" />
+    <TypeScriptCompile Include="Scripts\lib\ndgmr.Collision.d.ts" />
     <TypeScriptCompile Include="Scripts\lib\preloadjs.d.ts" />
     <TypeScriptCompile Include="Scripts\lib\soundjs.d.ts" />
     <TypeScriptCompile Include="Scripts\lib\tweenjs.d.ts" />
